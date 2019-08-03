@@ -14,6 +14,6 @@
 // });
 
 // Option 3 - SmoothScroll Script
-const scroll = new SmoothScroll('.navbar a[href*="#"]', {
-	speed: 800
-});
+// const scroll = new SmoothScroll('.navbar a[href*="#"]', {
+// 	speed: 800
+// });
